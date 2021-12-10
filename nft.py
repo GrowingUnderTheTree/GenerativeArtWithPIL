@@ -80,4 +80,5 @@ for i in range(number_of_lines):
     )
 
 print(f'Processing run_id: {run_id}')
-image.save(f'{run_id}.png')
+image.show("bapakkau hijau")
+#image.save(f'{run_id}.png')
